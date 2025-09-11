@@ -163,18 +163,7 @@
             color: var(--dark);
         }
         
-        /* Hero Section */
-        .hero {
-            height: 100vh;
-            background: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url('https://th.bing.com/th/id/R.4ad7b65c5af5298a22d4df41e7982dc2?rik=KFZYJakboz%2fMmw&pid=ImgRaw&r=0') no-repeat center center/cover;
-            display: flex;
-            align-items: center;
-            color: white;
-            text-align: center;
-            padding-top: 80px;
-            position: relative;
-            overflow: hidden;
-        }
+       
         
         .hero::before {
             content: '';
